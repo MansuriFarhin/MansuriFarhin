@@ -1,7 +1,7 @@
   **Hi there, I’m Farhin Mansuri**👋
 - 🎓 Master’s student in Embedded Cyber-Physical Systems at UC Irvine.
 - ✨ I’m interested: RTOS, Firmware development, Linux, and IOT.
-- ⚡ I’m currently learning: Embedded AI, FPGAs, Machine Learning, cloud computing
+- ⚡ I’m currently learning: Embedded AI, FPGAs, Machine Learning.
   
 
 <!---
